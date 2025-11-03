@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1762187053917,
+        "data": "03/11/2025 13:24:13",
+        "combustivel": "Gasolina",
+        "valorLitro": 5.79,
+        "litros": 5.0,
+        "formaPagamento": "Dinheiro",
+        "valorTotal": 28.95,
+        "desconto": 2.9,
+        "valorFinal": 26.05
+    },
+    {
+        "id": 1762187079357,
+        "data": "03/11/2025 13:24:39",
+        "combustivel": "Gasolina",
+        "valorLitro": 5.79,
+        "litros": 20.0,
+        "formaPagamento": "Cartão de Crédito",
+        "valorTotal": 115.8,
+        "desconto": 0,
+        "valorFinal": 115.8
+    }
+]
